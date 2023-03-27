@@ -1,0 +1,51 @@
+h2{
+    font-size: large;
+    color: white;
+    padding: 16px;
+    background-color: black;
+}
+
+.formLogin{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    
+}
+
+.formInputs{
+    font-size: large;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 16px;
+    background-color: black;
+}
+
+input{
+    width: 200px;
+    height: 30px;
+    border-radius: 30px; 
+}
+
+button{
+    background-color: #6fff00d7;
+    height: 40px;
+    border-radius: 32px;
+    border: 2px solid white ;
+    color: black;
+    cursor: pointer;
+    font-size: large;
+}
+
+#clue {
+    color: gray;
+    font-size: small;
+    font-weight: bold;
+    padding: 16px;
+    background-color: black;
+  }
+  
